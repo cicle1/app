@@ -1,0 +1,189 @@
+.container {
+    width: 7.02rem;
+    height: auto;
+    min-height: 1px;
+    margin: 0 auto;
+}
+
+#header {
+    width: 100%;
+    height: 3.65rem;
+    background: #c920bb;
+}
+
+.topBar {
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+
+.barLeft {
+    float: left;
+    margin-top: 1rem;
+}
+
+.barLeft > img {
+    width: 0.96rem;
+    height: 0.5rem;
+}
+
+.barMiddle {
+    width: 2.68rem;
+    height: 2.68rem;
+    margin: 0 auto;
+    padding-top: 0.37rem;
+}
+
+.barMiddle > img {
+    width: 2.68rem;
+    height: 2.68rem;
+}
+
+.barRight {
+    float: right;
+    width: 0.95rem;
+    border-radius: 0.24rem;
+    background: #f46bfa;
+    text-align: center;
+    position: absolute;
+    right: 0;
+    bottom: 1.2rem;
+}
+
+.barBottom {
+    width: 0.77rem;
+    height: 0.39rem;
+    position: absolute;
+    right: 3.1rem;
+    top: 3.38rem;
+}
+
+.barBottom > img {
+    width: 0.77rem;
+    height: 0.39rem;
+}
+
+/*header*/
+.banner {
+    height: 5.8rem;
+    margin-top: 0.38rem;
+}
+
+.bannerBox {
+    width: 7.02rem;
+    height: 5.48rem;
+    background: #ffffff;
+    margin: 0 auto;
+    box-shadow: 0 -3px 16px 0 #b4b4b3;
+}
+
+.bannerText {
+    width: 1.77rem;
+    height: 0.23rem;
+    font-size: 0.3rem;
+    font-weight: normal;
+    line-height: 0.44rem;
+    letter-spacing: 0.02rem;
+    color: #000000;
+    opacity: 0.5;
+    padding-left: 0.5rem;
+    padding-top: 0.58rem;
+}
+
+.bannerBox .user {
+    width: 6rem;
+    height: 0.7rem;
+    margin-top: 0.8rem;
+    margin-left: 0.5rem;
+    border-bottom: 0.01rem solid rgba(0, 0, 0, 0.6);
+    opacity: 0.7;
+}
+
+.input {
+    border: none;
+}
+
+.bannerPw {
+    width: 1.77rem;
+    height: 0.23rem;
+    font-size: 0.3rem;
+    font-weight: normal;
+    line-height: 0.44rem;
+    letter-spacing: 0.02rem;
+    color: #000000;
+    opacity: 0.5;
+    padding-left: 0.5rem;
+    padding-top: 0.58rem;
+}
+
+.bannerBox .password {
+    width: 6rem;
+    height: 0.7rem;
+    margin-top: 0.8rem;
+    margin-left: 0.5rem;
+    border-bottom: 0.01rem solid rgba(0, 0, 0, 0.6);
+    opacity: 0.7;
+}
+
+.bannerBox .slip {
+    float: left;
+    width: 0.37rem;
+    height: 0.41rem;
+    margin-left: 0.51rem;
+    margin-top: 0.2rem;
+}
+
+.bannerBox .slip > img {
+    width: 0.37rem;
+    height: 0.41rem;
+}
+
+.bannerBox .forget {
+    float: left;
+    margin-top: 0.2rem;
+    margin-left: 0.2rem;
+    color: #000000;
+    opacity: 0.7;
+}
+/*banner*/
+.register{
+    height: 1.29rem;
+}
+.registerBox{
+    width: 7.02rem;
+    height: 1.29rem;
+    margin: 0 auto;
+    box-shadow: 0 -3px 16px 0 #b4b4b3;
+    text-align: center;
+    line-height: 1.29rem;
+    color: rgba(0,0,0,0.6);
+    font-size: 0.3rem;
+}
+/*登录按钮*/
+.footer{
+    height: 2.16rem;
+}
+.footerBox{
+    width: 7.02rem;
+    height: 2.16rem;
+    margin:0 auto;
+    text-align: center;
+    margin-top: 0.4rem;
+    font-size: 0.3rem;
+    color: #000000;
+    opacity: 0.7;
+}
+.footerBox .picture{
+    margin: 0 auto;
+    width: 3.44rem;
+    height: 1.07rem;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 0.1rem;
+
+}
+ .pictureTu>img{
+    width: 0.79rem;
+    height: 0.79rem;
+}
+/*登录方式*/
